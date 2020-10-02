@@ -25,10 +25,10 @@ if(!$_POST['w']):
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Donlod Lagu Ori Disini Coeg">
+    <meta name="description" content="Download Lagu Original Disini Slurrr">
     <meta name="author" content="Anon">
     <link rel="icon" href="assets/images/favicon.ico">
-    <title><?=$name?> - Donlod Lagu Gratis</title>
+    <title><?=$name?> - Download Lagu Gratis</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body {
@@ -49,7 +49,7 @@ if(!$_POST['w']):
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-		  <a href="#" class="navbar-brand">DonlodLagoe</a>        </div>
+		  <a href="#" class="navbar-brand">DownloadLagoe</a>        </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php"><i class="glyphicon glyphicon-home"></i> Index</a></li>
@@ -60,7 +60,7 @@ if(!$_POST['w']):
     <div class="container">                    
             <div class="panel panel-info" >
                     <div class="panel-heading">
-                        <div class="panel-title"><?=$name?> - DunludLagu Gratis</div>
+                        <div class="panel-title"><?=$name?> - Download Lagu Gratis</div>
                     </div>    
                     <div class="panel-body">
 						<div class="text-center">
@@ -79,7 +79,7 @@ if(!$_POST['w']):
 									<thead>
 										<tr>
 											<th>#</th>
-											<th>Song Name</th>
+											<th>Song Names</th>
 											<th>Album</th>
 											<th>Playtime</th>
 										</tr>
